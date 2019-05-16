@@ -1,1 +1,1 @@
- -Dsonar.analysis.mode=preview  # 设置 mode，默认为preview
+ -Dsonar.analysis.mode=preview  # 设置 mode，默认为preview111
